@@ -27,11 +27,12 @@ line-height: 25px;
 
 
 .product-info p{
-    margin-bottom: 6px;
+    margin-bottom: 8px;
 
 }
 
 .btn-cart{
+   
     background: #FF99004D;
     height: 48px;
     width: 100%;
@@ -39,12 +40,8 @@ line-height: 25px;
     border:none;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
-    bottom: 0px;
-
-
-
-
 }
+
 .btn-cart:hover{
     background-color: orange;
 
